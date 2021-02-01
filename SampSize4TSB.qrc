@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Prog4Qt.cc</file>
-    </qresource>
-</RCC>
